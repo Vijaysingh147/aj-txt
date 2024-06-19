@@ -10,17 +10,17 @@
     "env": {
         "API_ID": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
-            "value": "23004101"
+            "value": "29882586"
             "required": true
         },
         "API_HASH": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
-            "value": "a2e157e87728053027cbb156e41a832a"
+            "value": "a1fb8af0655e315111cd43177bac52dc"
             "required": true
         },
         "BOT_TOKEN": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
-            "value": "6561920112:AAH36fWeCjDFK-LyA5QjuEhkN-TsdyOTpHQ"
+            "value": "7133475022:AAGoYttWTuPNQokGO3ke6FpkZ5mgi8p0Jmw"
             "required": true
         },
         "OWNER_ID": {
@@ -30,7 +30,7 @@
         },
         "SUDO_USERS": {
             "description": "𝑺𝒖𝒅𝒐 𝑰𝑫'𝒔 (𝒀𝒐𝒖 𝑪𝒂𝒏 𝑨𝒅𝒅 𝑴𝒖𝒍𝒕𝒊𝒑𝒍𝒆 𝑩𝒚 𝑮𝒊𝒗𝒊𝒏𝒈 𝑺𝒑𝒂𝒄𝒆)",  
-            "value": "5409975736"
+            "value": "6788779682"
             "required": true
         }
     },
